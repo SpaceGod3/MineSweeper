@@ -36,35 +36,51 @@ namespace Test
             int columnCount = board.GetUpperBound(1) + 1;
 
             GetResult(board, rowCount, columnCount);
-            
+
+            Console.WriteLine("Enter the coordinates of your move:");
+            Console.Write("Row:");
+            int row = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Column:");
+            int column = Convert.ToInt32(Console.ReadLine());
+
 
             int minesCount = 9;
+            SetMines(mines, minesCount,row,column);
 
-            SetMines(mines, minesCount);
 
             GetResult(mines, rowCount, columnCount);
             Console.ReadLine();
 
-
+            IsBorder(row, column);
         }
 
-        private static void SetMines(string[,] mines, int minesCount)
+        private static void IsBorder(int row, int column)
+        {
+            
+        }
+
+        private static void SetMines(string[,] mines, int minesCount, int row, int colum)
         {
             if (minesCount > 0)
             {
                 Random rnd = new Random();
                 int m_row = rnd.Next(1, 9);
                 int m_column = rnd.Next(1, 9);
+                if (m_row == row && m_column == colum)
+                {
+                    SetMines(mines, minesCount, row, colum);
+                }
                 if (mines[m_row, m_column] == "*")
                 {
-                    SetMines(mines, minesCount);
+                    SetMines(mines, minesCount, row, colum);
                 }
                 else {
                     mines[m_row, m_column] = "*";
-                    SetMines(mines, minesCount - 1);
+                    SetMines(mines, minesCount - 1, row, colum);
                 }
-                
+
             }
+            
             else {
                 return;
             }

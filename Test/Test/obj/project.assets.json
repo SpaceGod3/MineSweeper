@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\c#\\тест\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "E:\\c#\\MineSweeperConsole\\MineSweeper\\Test\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "E:\\c#\\тест\\Test\\Test\\Test.csproj",
+      "projectPath": "E:\\c#\\MineSweeperConsole\\MineSweeper\\Test\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\maxch\\.nuget\\packages\\",
-      "outputPath": "E:\\c#\\тест\\Test\\Test\\obj\\",
+      "outputPath": "E:\\c#\\MineSweeperConsole\\MineSweeper\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxch\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oM+P3NZ4Jyhrtw47ClmVEMwWTLZBCfrY/Ttk1o8ee0yv+FYLkfVfEjlHiFM3kYDhxkLJcmESv3RgtyxwHAKJBA==",
+  "dgSpecHash": "Bi14Rd7OgsiKCLlqGKCrWmv700t92PllqOAWID6BjkvYAifD7NjXUXaHMcpjTVPk+urVgZty2k9FFwCRzDzf3w==",
   "success": true,
-  "projectFilePath": "E:\\c#\\тест\\Test\\Test\\Test.csproj",
+  "projectFilePath": "E:\\c#\\MineSweeperConsole\\MineSweeper\\Test\\Test\\Test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

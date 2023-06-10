@@ -1,0 +1,14 @@
+E:\c#\тест\Test\Test\bin\Debug\netcoreapp3.1\Test.exe
+E:\c#\тест\Test\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+E:\c#\тест\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+E:\c#\тест\Test\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+E:\c#\тест\Test\Test\bin\Debug\netcoreapp3.1\Test.dll
+E:\c#\тест\Test\Test\bin\Debug\netcoreapp3.1\Test.pdb
+E:\c#\тест\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+E:\c#\тест\Test\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\тест\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+E:\c#\тест\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+E:\c#\тест\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+E:\c#\тест\Test\Test\obj\Debug\netcoreapp3.1\Test.dll
+E:\c#\тест\Test\Test\obj\Debug\netcoreapp3.1\Test.pdb
+E:\c#\тест\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
